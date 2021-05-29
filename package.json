@@ -1,0 +1,25 @@
+{
+  "name": "react-tailwind",
+  "version": "1.0.0",
+  "description": "tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoussefWilliam/react-tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoussefWilliam/react-tailwind/issues"
+  },
+  "homepage": "https://github.com/YoussefWilliam/react-tailwind#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
+  }
+}
