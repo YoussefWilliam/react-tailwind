@@ -16,7 +16,9 @@
     "url": "https://github.com/YoussefWilliam/react-tailwind/issues"
   },
   "homepage": "https://github.com/YoussefWilliam/react-tailwind#readme",
-  "dependencies": {},
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
     "postcss": "^8.3.0",
